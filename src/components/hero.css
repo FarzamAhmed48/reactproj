@@ -1,0 +1,45 @@
+/* .image{
+    height: 80vh;
+    width: 100vw;
+    position: fixed;
+    z-index: -1;
+} */
+
+.flex1{
+    background-image: url(../img/bg-masthead.jpg);
+    height: 80vh;
+    background-position: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    /* position: relative;
+    top: 150px;
+    left: 450px; */
+}
+.head{
+    width: 30%;
+}
+.inp{
+    width: 300px;
+    height: 30px;
+    border: 1px solid blue;
+    padding: 8px 0px 8px 15px;
+    border-radius: 5px;
+}
+.heading{
+    color: white;
+}
+.btn1{
+    background-color: rgb(95, 95, 255);
+    color: white;
+    width: 80px;
+    height: 40px;
+    border: none;
+}
+.flex2{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}

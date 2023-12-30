@@ -1,0 +1,22 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    margin-top: 10px;
+    text-align: center;
+
+
+}
+.icon{
+    font-size: 50px;
+    color: rgb(114, 114, 249);
+}
+.dflex{
+    display: flex;
+    background-color: rgb(240, 236, 236);
+    justify-content: center;
+    gap:60px;
+    height: 300px;
+}

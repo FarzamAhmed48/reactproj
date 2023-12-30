@@ -1,0 +1,16 @@
+.testimg{
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+}
+.bckcol{
+    background-color: rgb(244, 244, 244);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+}
+.mgtp{
+    margin-top: 50px;
+    text-align: center;
+}
